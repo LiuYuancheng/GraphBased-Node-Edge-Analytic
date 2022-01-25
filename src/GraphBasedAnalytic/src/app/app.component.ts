@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { GraphSiemComponent } from './pages/graph-siem/graph-siem.component';
 
 @Component({
   selector: 'app-root',
